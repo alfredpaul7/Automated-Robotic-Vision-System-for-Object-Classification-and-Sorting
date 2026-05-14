@@ -181,8 +181,8 @@ Model deployed to ESP32-CAM.
 ## Figure 5: Edge Impulse Workflow
 
 
-**<img width="1774" height="887" alt="ChatGPT Image May 3, 2026, 07_28_46 PM" src="https://github.com/user-attachments/assets/723f1bc7-7df6-4a71-9c89-23aea71bebc5" />
-**
+<img width="1774" height="887" alt="ChatGPT Image May 3, 2026, 07_28_46 PM" src="https://github.com/user-attachments/assets/723f1bc7-7df6-4a71-9c89-23aea71bebc5" />
+
 ---
 
 # Dataset Visualization
