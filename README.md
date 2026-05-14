@@ -174,8 +174,11 @@ TinyML object classification model.
 Model deployed to ESP32-CAM.
 
 ---
+## Figure 4: Circuit Diagram
+<img width="640" height="447" alt="image" src="https://github.com/user-attachments/assets/d1382d8a-a572-4ebd-a0fe-b0d8fcb3ac35" />
 
-## Figure 4: Edge Impulse Workflow
+
+## Figure 5: Edge Impulse Workflow
 
 
 **<img width="1774" height="887" alt="ChatGPT Image May 3, 2026, 07_28_46 PM" src="https://github.com/user-attachments/assets/723f1bc7-7df6-4a71-9c89-23aea71bebc5" />
@@ -193,7 +196,7 @@ Dataset includes:
 
 ---
 
-## Figure 5: Feature Explorer
+## Figure 6: Feature Explorer
 
 <img width="470" height="474" alt="987ce4b4-d505-411f-b4d6-c423ad56002f" src="https://github.com/user-attachments/assets/366cda0c-dcea-4ecd-8f0d-67042266aedf" />
 
@@ -210,7 +213,7 @@ The confusion matrix validates classification performance.
 
 ---
 
-## Figure 6: Model Performance Metrics
+## Figure 7: Model Performance Metrics
 <img width="509" height="505" alt="b03f436a-cc5a-4bfe-ae17-bf75d9e2eae3" src="https://github.com/user-attachments/assets/e59e0c5f-94a0-486c-87c4-0bfb86564d55" />
 
 
@@ -351,7 +354,7 @@ Robotic arm grips the object and places it into the corresponding sorting bin.
 
 ---
 
-## Figure 7:  3D printing setup in CURA software
+## Figure 8:  3D printing setup in CURA software
 <img width="1600" height="863" alt="WhatsApp Image 2026-05-03 at 19 23 27" src="https://github.com/user-attachments/assets/78d7e46e-ec8d-4576-9f5c-ca0a743fc04a" />
 
 ---
